@@ -12,5 +12,8 @@ Sou estudante de ADS(Analise e Desenvolvimento de Sistemas) desde 2023, e estou 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height = "50" width = "50"
 </div>
 
+---
+
+
 
 
