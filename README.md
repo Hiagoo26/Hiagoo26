@@ -3,7 +3,7 @@ Sou estudante de ADS(Analise e Desenvolvimento de Sistemas) desde 2023, e estou 
 
   - 🏡 Fartura/Sp
   - 👭🐱 Amo ela e amo Gatos
----
+###
 
 <div class="images" align = "center">
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height = 50 width = "50" />
