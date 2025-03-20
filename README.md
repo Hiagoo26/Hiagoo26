@@ -1,4 +1,4 @@
-## Oi sou o Hiago
+## Olá
 Sou estudante de ADS(Analise e Desenvolvimento de Sistemas) desde 2023, e estou aqui postando meu progresso.
 
   - 🏡 Fartura/Sp
