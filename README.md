@@ -20,5 +20,5 @@ Sou estudante de ADS(Analise e Desenvolvimento de Sistemas) desde 2023, e estou 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hiagoo26&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="48%" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiagoo26&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" width="48%" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiagoo26&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" width="41%" height="195px"/>
 </p>
