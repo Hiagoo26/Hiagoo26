@@ -16,7 +16,6 @@ Formado(Falta certificado) em **Análise e Desenvolvimento de Sistemas**, apaixo
 
 ### 🧠 Back-end / Outros
 - Node.js
-- Python  
 
 ### 📚 Em constante aprendizado
 - Frameworks
