@@ -2,7 +2,7 @@
 
 Formado(Falta certificado) em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e atualmente com foco principal em **Front-end** utilizando frameworks JavaScript e boas práticas de desenvolvimento.
 
-📍 Fartura, SP – Brazil  
+📍 Fartura, SP – Brasil  
 👭🐱 Amo minha companheira e sou apaixonado por gatos
 
 ## 💻 Tecnologias e Ferramentas
