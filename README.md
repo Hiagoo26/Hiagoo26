@@ -11,6 +11,7 @@ Formado(Falta certificado) em **Análise e Desenvolvimento de Sistemas**, apaixo
 <div class="images" align = "start">
   <img src= "https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height = "50" width = "50"/>
   <img src= "https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height = "50" width = "50"/>
+  <img src= "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" height = "50" width= "50" />
   <img src= "https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height = "50" width ="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height ="50" width = "50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height = "50" width = "50"/>
